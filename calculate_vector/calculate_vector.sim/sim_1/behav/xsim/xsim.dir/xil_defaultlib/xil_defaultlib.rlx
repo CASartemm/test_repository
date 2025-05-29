@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.sim/sim_1/behav/xsim/glbl.v,1747819342,verilog,,,,glbl,,,,,,,,
+C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/bit_receiver.v,1747819346,verilog,,C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/calculate_vector.v,,bit_receiver,,,,,,,,
+C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/calculate_vector.v,1748356278,verilog,,C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/shift_register_processor.v,,calculate_vector,,,,,,,,
+C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/shift_register_processor.v,1748169734,verilog,,C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/tb_calculate_vector.v,,shift_register_processor,,,,,,,,
+C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/tb_calculate_vector.v,1748354026,verilog,,,,tb_calculate_vector,,,,,,,,

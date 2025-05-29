@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun May 25 11:23:16 2025
+# Process ID: 7124
+# Current directory: C:/Users/Арти/YandexDisk-mosinartemij/vivado_project/LDPC/Версии/calculate_vector
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4256 C:\Users\Арти\YandexDisk-mosinartemij\vivado_project\LDPC\Версии\calculate_vector\calculate_vector.xpr
+# Log file: C:/Users/Арти/YandexDisk-mosinartemij/vivado_project/LDPC/Версии/calculate_vector/vivado.log
+# Journal file: C:/Users/Арти/YandexDisk-mosinartemij/vivado_project/LDPC/Версии/calculate_vector\vivado.jou
+# Running On        :DESKTOP-OG1KD42
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :AMD Ryzen 7 5700X 8-Core Processor             
+# CPU Frequency     :3400 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :25676 MB
+# Swap memory       :6853 MB
+# Total Virtual     :32529 MB
+# Available Virtual :26962 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Арти/YandexDisk-mosinartemij/vivado_project/LDPC/Версии/calculate_vector/calculate_vector.xpr
+launch_simulation
+source tb_calculate_vector.tcl
+update_compile_order -fileset sources_1
+run all
+run all
+close_sim

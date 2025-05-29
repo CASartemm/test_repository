@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../calculate_vector.srcs/sources_1/new/bit_receiver.v" \
+"../../../../calculate_vector.srcs/sources_1/new/calculate_vector.v" \
+"../../../../calculate_vector.srcs/sources_1/new/shift_register_processor.v" \
+"../../../../calculate_vector.srcs/sources_1/new/tb_calculate_vector.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

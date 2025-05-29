@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Результат: 613ccafbd2279bb7d1b52e90593632b5
+Симуляция завершена
+$finish called at time : 7695 ns : File "C:/Users/arty/YandexDisk/vivado_project/LDPC/calculate_vector/calculate_vector.srcs/sources_1/new/tb_calculate_vector.v" Line 85
