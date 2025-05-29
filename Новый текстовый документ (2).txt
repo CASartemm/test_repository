@@ -16,7 +16,9 @@ module matrix_processor_axis_0_tb;
     integer input_file;
     integer output_file;
     reg [639:0] temp_mem;
-
+ // Инстанцирование IP-ядра
+ // Инстанцирование IP-ядра
+ // Инстанцирование IP-ядра
     // Инстанцирование IP-ядра
     matrix_processor_axis_0 dut (
         .clk(clk),
